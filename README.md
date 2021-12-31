@@ -8,12 +8,12 @@ main functions:
 2. `Unlock`
 3. `TryLock`
 
-### Single
+### Single package
 
 It just has one main function:
 1. `Do`
 
-### Waitgroup
+### Waitgroup package
 
 main functions:
 1. `Add`
